@@ -27,7 +27,7 @@ To use this project you only need to install Racket. This can be done using a pa
 $ sudo apt-get update
 ```
 ```
-$ sudo apt-get isntall racket -y
+$ sudo apt-get install racket -y
 ```
 
 You might be able to use a package manager like choco or brew for Windows and MacOS operative systems, but it is also posible to use the installer provided by the racket website: [download racket](https://download.racket-lang.org/).
